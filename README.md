@@ -1,3 +1,3 @@
 # Go1-slam-navigation
 
-using pacakage is in main branch
+using pacakages are in main branch
